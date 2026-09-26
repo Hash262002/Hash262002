@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently working as a sde , tech stacks I work on is MERN(Mongo , Express , React and Node) stack. <br>I also have worked with agentic Ai , LLMs , Langgraph , Lang Chain , Mcps and proficient in using modern Ai tools such as claude , Devin AI , Co pilot etc<br>I am good at Dsa as well , solved 1000+ problems at leet code also I hold a knight badge on Leetcode
+I’m a Software Development Engineer working primarily with the MERN stack (MongoDB, Express.js, React, and Node.js).
+
+I have hands-on experience building applications using Agentic AI, LLMs, LangChain, LangGraph, and MCPs. I also actively leverage modern AI development tools such as Claude, Devin AI, and GitHub Copilot to improve development workflows and productivity.
+
+I’m passionate about problem-solving and Data Structures & Algorithms, with 1000+ problems solved on LeetCode and a Knight badge.
+
 
 
 ## 🌐 Socials:
