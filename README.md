@@ -9,8 +9,8 @@ I’m passionate about problem-solving and Data Structures & Algorithms, with 10
 
 # 🌐 Socials
 <a href="https://www.linkedin.com/in/aayush-sheth-813194208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AayushSheth" height="30" width="40" /></a>
-![leetcode]<a href="https://leetcode.com/u/hashwhile1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AayushSheth" height="30" width="40" /></a>
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayush.sheth2002@gmail.com) 
+<a href="https://leetcode.com/u/hashwhile1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AayushSheth" height="30" width="40" /></a>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayush.sheth2002@gmail.com) 
 
 
 
