@@ -9,12 +9,7 @@ I’m passionate about problem-solving and Data Structures & Algorithms, with 10
 
 # 🌐 Socials
 <a href="https://www.linkedin.com/in/aayush-sheth-813194208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AayushSheth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atishayjn15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atishayjn15" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/SkillRexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atishayjn15" height="30" width="40" /></a>
-<a href="https://dev.to/atishay_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atishay_jain" height="30" width="40" /></a>
-<a href="https://medium.com/@atishayjn999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="atishay_jain" height="30" width="40" /></a>
-<a href="https://hashnode.com/@AtishayJain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="atishay_jain" height="30" width="40" /></a>
-<a href="https://linktr.ee/atishay_jain" target="blank"><img align="center" src="./linktree.webp" alt="atishay_jain" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/hashwhile1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AayushSheth" height="30" width="40" /></a>
 
 
 
