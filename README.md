@@ -12,7 +12,6 @@ I’m passionate about problem-solving and Data Structures & Algorithms, with 10
 <a href="https://leetcode.com/u/hashwhile1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AayushSheth" height="20" width="25" /></a>
 
 
-
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayush.sheth2002@gmail.com) 
 
 
